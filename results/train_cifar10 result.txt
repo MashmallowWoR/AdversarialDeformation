@@ -1,0 +1,204 @@
+Train.  Epch: 99        Btch: 0 Err: 0.000%     Lss: 0.01587    Adv: 0.00000
+Train.  Epch: 99        Btch: 10        Err: 2.000%     Lss: 0.03636    Adv: 0.00000
+Train.  Epch: 99        Btch: 20        Err: 0.000%     Lss: 0.00204    Adv: 0.00000
+Train.  Epch: 99        Btch: 30        Err: 2.000%     Lss: 0.02725    Adv: 0.00000
+Train.  Epch: 99        Btch: 40        Err: 2.000%     Lss: 0.11870    Adv: 0.00000
+Train.  Epch: 99        Btch: 50        Err: 0.000%     Lss: 0.01849    Adv: 0.00000
+Train.  Epch: 99        Btch: 60        Err: 4.000%     Lss: 0.11869    Adv: 0.00000
+Train.  Epch: 99        Btch: 70        Err: 0.000%     Lss: 0.00095    Adv: 0.00000
+Train.  Epch: 99        Btch: 80        Err: 4.000%     Lss: 0.13046    Adv: 0.00000
+Train.  Epch: 99        Btch: 90        Err: 0.000%     Lss: 0.00137    Adv: 0.00000
+Train.  Epch: 99        Btch: 100       Err: 0.000%     Lss: 0.00419    Adv: 0.00000
+Train.  Epch: 99        Btch: 110       Err: 0.000%     Lss: 0.00720    Adv: 0.00000
+Train.  Epch: 99        Btch: 120       Err: 0.000%     Lss: 0.00662    Adv: 0.00000
+Train.  Epch: 99        Btch: 130       Err: 0.000%     Lss: 0.00508    Adv: 0.00000
+Train.  Epch: 99        Btch: 140       Err: 2.000%     Lss: 0.01779    Adv: 0.00000
+Train.  Epch: 99        Btch: 150       Err: 0.000%     Lss: 0.00106    Adv: 0.00000
+Train.  Epch: 99        Btch: 160       Err: 0.000%     Lss: 0.00692    Adv: 0.00000
+Train.  Epch: 99        Btch: 170       Err: 2.000%     Lss: 0.05001    Adv: 0.00000
+Train.  Epch: 99        Btch: 180       Err: 2.000%     Lss: 0.07071    Adv: 0.00000
+Train.  Epch: 99        Btch: 190       Err: 0.000%     Lss: 0.01347    Adv: 0.00000
+Train.  Epch: 99        Btch: 200       Err: 0.000%     Lss: 0.00602    Adv: 0.00000
+Train.  Epch: 99        Btch: 210       Err: 0.000%     Lss: 0.00186    Adv: 0.00000
+Train.  Epch: 99        Btch: 220       Err: 0.000%     Lss: 0.03631    Adv: 0.00000
+Train.  Epch: 99        Btch: 230       Err: 0.000%     Lss: 0.00266    Adv: 0.00000
+Train.  Epch: 99        Btch: 240       Err: 0.000%     Lss: 0.00500    Adv: 0.00000
+Train.  Epch: 99        Btch: 250       Err: 2.000%     Lss: 0.03280    Adv: 0.00000
+Train.  Epch: 99        Btch: 260       Err: 0.000%     Lss: 0.00339    Adv: 0.00000
+Train.  Epch: 99        Btch: 270       Err: 0.000%     Lss: 0.00201    Adv: 0.00000
+Train.  Epch: 99        Btch: 280       Err: 0.000%     Lss: 0.00117    Adv: 0.00000
+Train.  Epch: 99        Btch: 290       Err: 2.000%     Lss: 0.02158    Adv: 0.00000
+Train.  Epch: 99        Btch: 300       Err: 0.000%     Lss: 0.00183    Adv: 0.00000
+Train.  Epch: 99        Btch: 310       Err: 2.000%     Lss: 0.03076    Adv: 0.00000
+Train.  Epch: 99        Btch: 320       Err: 0.000%     Lss: 0.00098    Adv: 0.00000
+Train.  Epch: 99        Btch: 330       Err: 0.000%     Lss: 0.00043    Adv: 0.00000
+Train.  Epch: 99        Btch: 340       Err: 0.000%     Lss: 0.00515    Adv: 0.00000
+Train.  Epch: 99        Btch: 350       Err: 2.000%     Lss: 0.03217    Adv: 0.00000
+Train.  Epch: 99        Btch: 360       Err: 0.000%     Lss: 0.00469    Adv: 0.00000
+Train.  Epch: 99        Btch: 370       Err: 0.000%     Lss: 0.00567    Adv: 0.00000
+Train.  Epch: 99        Btch: 380       Err: 4.000%     Lss: 0.12231    Adv: 0.00000
+Train.  Epch: 99        Btch: 390       Err: 0.000%     Lss: 0.00159    Adv: 0.00000
+Train.  Epch: 99        Btch: 400       Err: 0.000%     Lss: 0.00103    Adv: 0.00000
+Train.  Epch: 99        Btch: 410       Err: 0.000%     Lss: 0.00264    Adv: 0.00000
+Train.  Epch: 99        Btch: 420       Err: 4.000%     Lss: 0.06391    Adv: 0.00000
+Train.  Epch: 99        Btch: 430       Err: 0.000%     Lss: 0.00103    Adv: 0.00000
+Train.  Epch: 99        Btch: 440       Err: 0.000%     Lss: 0.00729    Adv: 0.00000
+Train.  Epch: 99        Btch: 450       Err: 0.000%     Lss: 0.00490    Adv: 0.00000
+Train.  Epch: 99        Btch: 460       Err: 0.000%     Lss: 0.00107    Adv: 0.00000
+Train.  Epch: 99        Btch: 470       Err: 0.000%     Lss: 0.00386    Adv: 0.00000
+Train.  Epch: 99        Btch: 480       Err: 2.000%     Lss: 0.02496    Adv: 0.00000
+Train.  Epch: 99        Btch: 490       Err: 0.000%     Lss: 0.00542    Adv: 0.00000
+Train.  Epch: 99        Btch: 500       Err: 2.000%     Lss: 0.04623    Adv: 0.00000
+Train.  Epch: 99        Btch: 510       Err: 0.000%     Lss: 0.00755    Adv: 0.00000
+Train.  Epch: 99        Btch: 520       Err: 0.000%     Lss: 0.00880    Adv: 0.00000
+Train.  Epch: 99        Btch: 530       Err: 0.000%     Lss: 0.00015    Adv: 0.00000
+Train.  Epch: 99        Btch: 540       Err: 0.000%     Lss: 0.01502    Adv: 0.00000
+Train.  Epch: 99        Btch: 550       Err: 0.000%     Lss: 0.00101    Adv: 0.00000
+Train.  Epch: 99        Btch: 560       Err: 0.000%     Lss: 0.00788    Adv: 0.00000
+Train.  Epch: 99        Btch: 570       Err: 2.000%     Lss: 0.10325    Adv: 0.00000
+Train.  Epch: 99        Btch: 580       Err: 0.000%     Lss: 0.00027    Adv: 0.00000
+Train.  Epch: 99        Btch: 590       Err: 0.000%     Lss: 0.01143    Adv: 0.00000
+Train.  Epch: 99        Btch: 600       Err: 2.000%     Lss: 0.03536    Adv: 0.00000
+Train.  Epch: 99        Btch: 610       Err: 0.000%     Lss: 0.01714    Adv: 0.00000
+Train.  Epch: 99        Btch: 620       Err: 0.000%     Lss: 0.01851    Adv: 0.00000
+Train.  Epch: 99        Btch: 630       Err: 2.000%     Lss: 0.04608    Adv: 0.00000
+Train.  Epch: 99        Btch: 640       Err: 0.000%     Lss: 0.00360    Adv: 0.00000
+Train.  Epch: 99        Btch: 650       Err: 2.000%     Lss: 0.02287    Adv: 0.00000
+Train.  Epch: 99        Btch: 660       Err: 2.000%     Lss: 0.04539    Adv: 0.00000
+Train.  Epch: 99        Btch: 670       Err: 0.000%     Lss: 0.00248    Adv: 0.00000
+Train.  Epch: 99        Btch: 680       Err: 2.000%     Lss: 0.10574    Adv: 0.00000
+Train.  Epch: 99        Btch: 690       Err: 0.000%     Lss: 0.00862    Adv: 0.00000
+Train.  Epch: 99        Btch: 700       Err: 0.000%     Lss: 0.00113    Adv: 0.00000
+Train.  Epch: 99        Btch: 710       Err: 0.000%     Lss: 0.00409    Adv: 0.00000
+Train.  Epch: 99        Btch: 720       Err: 0.000%     Lss: 0.00485    Adv: 0.00000
+Train.  Epch: 99        Btch: 730       Err: 4.000%     Lss: 0.16535    Adv: 0.00000
+Train.  Epch: 99        Btch: 740       Err: 0.000%     Lss: 0.00505    Adv: 0.00000
+Train.  Epch: 99        Btch: 750       Err: 2.000%     Lss: 0.02678    Adv: 0.00000
+Train.  Epch: 99        Btch: 760       Err: 4.000%     Lss: 0.05794    Adv: 0.00000
+Train.  Epch: 99        Btch: 770       Err: 0.000%     Lss: 0.00099    Adv: 0.00000
+Train.  Epch: 99        Btch: 780       Err: 0.000%     Lss: 0.02050    Adv: 0.00000
+Train.  Epch: 99        Btch: 790       Err: 4.000%     Lss: 0.08992    Adv: 0.00000
+Train.  Epch: 99        Btch: 800       Err: 0.000%     Lss: 0.01014    Adv: 0.00000
+Train.  Epch: 99        Btch: 810       Err: 2.000%     Lss: 0.07756    Adv: 0.00000
+Train.  Epch: 99        Btch: 820       Err: 2.000%     Lss: 0.01642    Adv: 0.00000
+Train.  Epch: 99        Btch: 830       Err: 2.000%     Lss: 0.04616    Adv: 0.00000
+Train.  Epch: 99        Btch: 840       Err: 2.000%     Lss: 0.02919    Adv: 0.00000
+Train.  Epch: 99        Btch: 850       Err: 0.000%     Lss: 0.00768    Adv: 0.00000
+Train.  Epch: 99        Btch: 860       Err: 0.000%     Lss: 0.00023    Adv: 0.00000
+Train.  Epch: 99        Btch: 870       Err: 0.000%     Lss: 0.02317    Adv: 0.00000
+Train.  Epch: 99        Btch: 880       Err: 2.000%     Lss: 0.01750    Adv: 0.00000
+Train.  Epch: 99        Btch: 890       Err: 2.000%     Lss: 0.04863    Adv: 0.00000
+Train.  Epch: 99        Btch: 900       Err: 2.000%     Lss: 0.03142    Adv: 0.00000
+Train.  Epch: 99        Btch: 910       Err: 0.000%     Lss: 0.00334    Adv: 0.00000
+Train.  Epch: 99        Btch: 920       Err: 0.000%     Lss: 0.00431    Adv: 0.00000
+Train.  Epch: 99        Btch: 930       Err: 0.000%     Lss: 0.00287    Adv: 0.00000
+Train.  Epch: 99        Btch: 940       Err: 0.000%     Lss: 0.01245    Adv: 0.00000
+Train.  Epch: 99        Btch: 950       Err: 0.000%     Lss: 0.00080    Adv: 0.00000
+Train.  Epch: 99        Btch: 960       Err: 0.000%     Lss: 0.00152    Adv: 0.00000
+Train.  Epch: 99        Btch: 970       Err: 0.000%     Lss: 0.00297    Adv: 0.00000
+Train.  Epch: 99        Btch: 980       Err: 0.000%     Lss: 0.00089    Adv: 0.00000
+Train.  Epch: 99        Btch: 990       Err: 0.000%     Lss: 0.01891    Adv: 0.00000
+Eval.   Epch: 99        Btch: 0 Err: 16.000%    Lss: 0.41799
+Eval.   Epch: 99        Btch: 10        Err: 4.000%     Lss: 0.24774
+Eval.   Epch: 99        Btch: 20        Err: 8.000%     Lss: 0.33899
+Eval.   Epch: 99        Btch: 30        Err: 16.000%    Lss: 1.14027
+Eval.   Epch: 99        Btch: 40        Err: 4.000%     Lss: 0.18458
+Eval.   Epch: 99        Btch: 50        Err: 8.000%     Lss: 0.78393
+Eval.   Epch: 99        Btch: 60        Err: 10.000%    Lss: 0.38343
+Eval.   Epch: 99        Btch: 70        Err: 2.000%     Lss: 0.03215
+Eval.   Epch: 99        Btch: 80        Err: 6.000%     Lss: 0.22213
+Eval.   Epch: 99        Btch: 90        Err: 6.000%     Lss: 0.13461
+Eval.   Epch: 99        Btch: 100       Err: 10.000%    Lss: 0.66474
+Eval.   Epch: 99        Btch: 110       Err: 8.000%     Lss: 0.36967
+Eval.   Epch: 99        Btch: 120       Err: 6.000%     Lss: 0.68444
+Eval.   Epch: 99        Btch: 130       Err: 6.000%     Lss: 0.23037
+Eval.   Epch: 99        Btch: 140       Err: 10.000%    Lss: 0.74633
+Eval.   Epch: 99        Btch: 150       Err: 6.000%     Lss: 0.29371
+Eval.   Epch: 99        Btch: 160       Err: 6.000%     Lss: 0.11053
+Eval.   Epch: 99        Btch: 170       Err: 0.000%     Lss: 0.04467
+Eval.   Epch: 99        Btch: 180       Err: 4.000%     Lss: 0.12350
+Eval.   Epch: 99        Btch: 190       Err: 14.000%    Lss: 1.08811
+
+
+Epoch 99 finished.
+        Time:            215.41 min
+        Eval. error:     7.97%
+
+ResNet(
+  (conv1): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+  (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (layer1): Sequential(
+    (0): BasicBlock(
+      (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (shortcut): Sequential()
+    )
+    (1): BasicBlock(
+      (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (shortcut): Sequential()
+    )
+  )
+  (layer2): Sequential(
+    (0): BasicBlock(
+      (conv1): Conv2d(64, 128, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (shortcut): Sequential(
+        (0): Conv2d(64, 128, kernel_size=(1, 1), stride=(2, 2), bias=False)
+        (1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (1): BasicBlock(
+      (conv1): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (shortcut): Sequential()
+    )
+  )
+  (layer3): Sequential(
+    (0): BasicBlock(
+      (conv1): Conv2d(128, 256, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (shortcut): Sequential(
+        (0): Conv2d(128, 256, kernel_size=(1, 1), stride=(2, 2), bias=False)
+        (1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (1): BasicBlock(
+      (conv1): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (shortcut): Sequential()
+    )
+  )
+  (layer4): Sequential(
+    (0): BasicBlock(
+      (conv1): Conv2d(256, 512, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (shortcut): Sequential(
+        (0): Conv2d(256, 512, kernel_size=(1, 1), stride=(2, 2), bias=False)
+        (1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (1): BasicBlock(
+      (conv1): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (conv2): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (shortcut): Sequential()
+    )
+  )
+  (linear): Linear(in_features=512, out_features=10, bias=True)
+)

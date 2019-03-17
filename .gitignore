@@ -1,0 +1,12 @@
+
+# Files from running .py scripts
+__pycache__/
+
+# macOS files
+.DS_Store
+
+# Downloaded data and trained models
+resources/processed/*
+resources/raw/*
+resources/mnist_*_model.pt
+results/mnist_*_progress.sav
